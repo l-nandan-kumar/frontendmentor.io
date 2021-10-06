@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](..main/order-summary-component-main/images/screenshot.jpg)
+![](https://github.com/nandan-kumar-github/frontendmentor.io/blob/main/order-summary-component-main/images/screenshot.png)
 
 
 
