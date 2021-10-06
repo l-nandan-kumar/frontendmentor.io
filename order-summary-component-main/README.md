@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution](https://github.com/nandan-kumar-github/frontendmentor.io/tree/main/order-summary-component-main)
 
 
 ## Author
